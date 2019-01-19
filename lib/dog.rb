@@ -2,7 +2,7 @@ class Dog
   def bark
     puts "Woof"
   end
-  def sir
+  def sit
     puts "the dog is sitting"
   end
 end
